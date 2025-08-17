@@ -13,7 +13,6 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 import xgboost as xgb
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 import warnings
-import io
 
 warnings.filterwarnings('ignore')
 
