@@ -303,7 +303,7 @@ elif page == "Data Import & Overview":
     st.markdown('<h2 class="sub-header">📊 Data Import & Overview</h2>', unsafe_allow_html=True)
 
     # File Upload Section
-    st.subheader("1️⃣ Data Import")
+    st.subheader("Data Import")
 
     col1, col2 = st.columns(2)
 
