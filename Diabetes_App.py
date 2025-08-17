@@ -263,7 +263,9 @@ if page == "Home":
 
     ### 🎯 Purpose
     Diabetes is a major health concern affecting millions globally. Early detection and prevention are 
-    critical for managing the disease and avoiding serious health complications.
+    critical for managing the disease and avoiding serious health complications. This application is 
+    designed to support both health professionals and patients by identifying and predicting diabetes 
+    in its early stages, helping to manage and reduce its long-term impact.
 
     ### 🔬 What This App Does
     - **Data Analysis**: Explore and visualize diabetes-related health metrics
