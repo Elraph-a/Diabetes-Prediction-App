@@ -3,4 +3,5 @@ In this project, my team and I utilized machine learning algorithms such as Arti
 diabetes or not based on several factors.
 
 Use the link below to access the application.
+
 https://diabetes-prediction-apk.streamlit.app/
